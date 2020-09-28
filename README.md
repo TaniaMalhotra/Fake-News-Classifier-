@@ -1,6 +1,5 @@
 # Fake-News-Classifier-
 An API to classify fake/real news by a ML model.  
-You might as well want to check out the extension repo [here](https://github.com/VallariAg/Fake-News-Classifier-Extension) 
 
 ## Prerequisites
 
@@ -45,6 +44,12 @@ Send POST requests at '/predict' to get a JSON response of:
 ```
 {"result": "fake"} or {"result": "real"}
 ```
+
+## Try out the chrome extsion
+Link can be found [here](https://chrome.google.com/webstore/detail/fake-news-classifier/dgfbojnniaaekgdkdgpkedmlnagokaml)
+You might as well want to check out the extension repo [here](https://github.com/VallariAg/Fake-News-Classifier-Extension) 
+
+
 ## Authors
 
 - [Tania Malhotra](github.com/TaniaMalhotra)
