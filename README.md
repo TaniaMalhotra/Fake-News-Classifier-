@@ -46,7 +46,7 @@ Send POST requests at '/predict' to get a JSON response of:
 ```
 
 ## Try out the chrome extsion
-Link can be found [here](https://chrome.google.com/webstore/detail/fake-news-classifier/dgfbojnniaaekgdkdgpkedmlnagokaml)
+Link to the chrome extension can be found [here](https://chrome.google.com/webstore/detail/fake-news-classifier/dgfbojnniaaekgdkdgpkedmlnagokaml)
 You might as well want to check out the extension repo [here](https://github.com/VallariAg/Fake-News-Classifier-Extension) 
 
 
