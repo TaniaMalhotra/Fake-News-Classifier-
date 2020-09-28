@@ -1,5 +1,6 @@
 # Fake-News-Classifier-
 An API to classify fake/real news by a ML model.  
+You might as well want to check out the extension repo [here](https://github.com/VallariAg/Fake-News-Classifier-Extension) 
 
 ## Prerequisites
 
@@ -36,7 +37,7 @@ Download dataset from [here](https://drive.google.com/file/d/1eVYHo4sowg0NBiX8aJ
     ```
     python3 app.py
     ```
-You might as well want to check out the extension repo [here](https://github.com/VallariAg/Fake-News-Classifier-Extension) 
+
 
 ## Use
 
